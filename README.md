@@ -1,4 +1,3 @@
-# Media-buying-with-docplex
 
 Solving media-buying constraints with linear programming using docplex in the IBM Watson Studio
 ===
@@ -13,4 +12,6 @@ Publication 1 receives higher viewership at lower cost, but serves a less valuab
 
 The task of the media planner is to maximize their given budget ($30,000) and allocate it efficiently across the two publications.
 
-This notebook shows how to use the docplex solver for the purpose of maximizing budget given a set of constraints for media planning
+This notebook shows how to use the docplex solver for the purpose of maximizing budget given a set of constraints for media planning.
+
+To learn more about optimizing media budgets when selecting publishers, message me at jamin@campaignr.biz
