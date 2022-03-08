@@ -1,5 +1,7 @@
 # Media-buying-with-docplex
->>> Solving media-buying constraints with linear programming using docplex in the IBM Watson Studio <<<
+
+Solving media-buying constraints with linear programming using docplex in the IBM Watson Studio
+===
 
 Media planners, as their title suggests, plan advertising placements for their campaigns across a variety of different platforms. This planning involves a certain amount of media-buying, wherein third party media must be purchased according to the demands of the campaign. This is an incredibly messy process, with media planners often unable to sort through and adequately compare different publishers' offerings for sponsored content, such as articles or videos. 
 
